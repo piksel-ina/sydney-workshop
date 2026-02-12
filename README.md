@@ -7,3 +7,9 @@ scalable EO data pipelines.
 ## Contents
 
 * [Docker](docker/README.md)
+* [GeoMAD](geomad/Sentinel-2_GeoMAD.ipynb)
+* [Machine Learning](machine_learning/Sentinel-2_MachineLearning.ipynb)
+* [ows](ows/README.md)
+* [wofs](wofs/README.md)
+
+
